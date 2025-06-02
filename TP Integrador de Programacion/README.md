@@ -40,7 +40,7 @@ Se busca comprender cómo la elección de un algoritmo puede afectar directament
 [Ver presentación en YouTube](https://youtu.be/_MnDbXsOsEY)
 
 ## 📁 Enlace al informe
-[Ver informe completo en PDF](./Trabajo%20Integrador%20-%20Programación%20I%20-%20Análisis%20de%20algoritmos.pdf)
+[Ver informe completo en PDF](https://drive.google.com/file/d/12Lai34bAt4bPUwxmzQcUe2eVZU7WEINC/view?usp=drive_link)
 
 ## 🔍 Conclusión
 El proyecto permitió comprender que **no basta con que un algoritmo funcione**, también debe ser **eficiente y escalable**.  
