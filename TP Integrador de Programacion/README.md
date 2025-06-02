@@ -39,8 +39,8 @@ Se busca comprender cómo la elección de un algoritmo puede afectar directament
 ## 📹 Video explicativo
 [Ver presentación en YouTube](https://youtu.be/_MnDbXsOsEY)
 
-## 📁 Enlace al informe
-[Ver informe completo en PDF](https://drive.google.com/file/d/12Lai34bAt4bPUwxmzQcUe2eVZU7WEINC/view?usp=drive_link)
+## 📁 Enlace al trabajo integrador
+[Ver trabajo integrador en PDF](https://drive.google.com/file/d/12Lai34bAt4bPUwxmzQcUe2eVZU7WEINC/view?usp=drive_link)
 
 ## 🔍 Conclusión
 El proyecto permitió comprender que **no basta con que un algoritmo funcione**, también debe ser **eficiente y escalable**.  
