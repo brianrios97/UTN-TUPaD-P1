@@ -37,7 +37,7 @@ Se busca comprender cómo la elección de un algoritmo puede afectar directament
 - Git y GitHub
 
 ## 📹 Video explicativo
-[Ver presentación en YouTube](https://youtu.be/_MnDbXsOsEY)
+[Ver presentación en YouTube](https://www.youtube.com/watch?v=nItTwOBvzaU)
 
 ## 📁 Enlace al trabajo integrador
 [Ver trabajo integrador en PDF](https://drive.google.com/file/d/12Lai34bAt4bPUwxmzQcUe2eVZU7WEINC/view?usp=drive_link)
